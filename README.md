@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains the assignments required for the AI For Medicine Specialization offered by Coursera. It covered 3 modules:
+This repository contains the assignments required for the AI For Medicine Specialization offered by Coursera, which covers 3 modules:
 
 * AI for Diagnosis
 
@@ -8,4 +8,4 @@ This repository contains the assignments required for the AI For Medicine Specia
 
 * AI for Treatment
 
-The modules will be split into the subfolders here.
+The assignments for the modules will be split into the subfolders here.
